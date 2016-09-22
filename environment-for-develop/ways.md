@@ -22,5 +22,3 @@
     * Connoha
     * さくらのクラウド
     * idcf
-* Linux環境を買う
-  * Raspberry Pi

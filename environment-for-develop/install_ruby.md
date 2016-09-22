@@ -38,3 +38,9 @@
 > raise server
 > rails server
 ```
+
+参考サイト
+
+http://ruby.studio-kingdom.com/rails/guides/getting_started
+
+
