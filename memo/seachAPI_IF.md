@@ -4,6 +4,7 @@
 * いずれかのリクエストパラメータの指定は必要
 
 * リクエストパラメータについて
+```json
 'schema': {
 	'type': 'object',
 	'properties': {
@@ -29,10 +30,12 @@
 		}
 	},
 }
+```
 
 * httpのstatuscodeにAPIのレスポンスに応じたstatus_codeを入れる
 * 200:OK,400: BadRequest, 404: Not Found, 500: Internal Server Error ぐらい
 * レスポンスパラメータの例
+```json
 {'num': 2
  'books':[
 	{
@@ -45,3 +48,4 @@
 	},
 ]
 }
+```
